@@ -9,8 +9,9 @@ At the moment I am only changing the sounds of (The sliding of the joycons).
 The format supported by the switch is format (RAW audio Signed-8bit PCM) at 44100 Hz.
 
 You can use Audacity to get this format
-[!imge](Audacity.jpg)
+![imge_text](Audacity.jpg)
 
-las routes are 
+The routes are 
 <yourCFWfolder>/titles/010000000000100C/romfs/sound
+
 
