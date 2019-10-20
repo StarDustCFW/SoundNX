@@ -14,4 +14,11 @@ You can use Audacity to get this format
 The routes are 
 <yourCFWfolder>/titles/010000000000100C/romfs/sound
 
+More information about Titles ID [Here](https://switchbrew.org/wiki/Title_list)
 
+
+Unpacked ID titles [Here](https://drive.google.com/drive/folders/1wPCyMkk4bJBu7BTqwtngSc0t1skTdIS5?usp=sharing)
+
+[Video](https://youtu.be/HXEgrBTy-Ps)
+
+## [Discord](https://discord.io/myrincon)
