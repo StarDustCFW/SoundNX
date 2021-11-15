@@ -17,8 +17,12 @@ The routes are
 More information about Titles ID [Here](https://switchbrew.org/wiki/Title_list)
 
 
+
 Unpacked ID titles [Here](https://drive.google.com/drive/folders/1wPCyMkk4bJBu7BTqwtngSc0t1skTdIS5?usp=sharing)
 
+### Issues
+* on ams 1.2.4 usin soundNX and Theme NX make the console hang after switch logo
+  
 [Video](https://youtu.be/HXEgrBTy-Ps)
 
 ## [Discord](https://discord.io/myrincon)
